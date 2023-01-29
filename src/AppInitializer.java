@@ -79,7 +79,7 @@ public class AppInitializer {
 
 
         }
-        
+
         // program initialization
     }
 
@@ -285,7 +285,6 @@ public class AppInitializer {
         }
         System.out.println("Customer Not Found");
     }
-
 
     public static void updateCustomer() {
         Scanner input = new Scanner(System.in);

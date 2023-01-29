@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Chamis_Kade:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chamis_Kade_jar</output-path>
+    <root id="archive" name="Chamis_Kade.jar">
+      <element id="module-output" name="Chamis_Kade" />
+    </root>
+  </artifact>
+</component>
